@@ -1,2 +1,2 @@
 # Doc2023
-Reposítório com códigos do trabalho de doutorado
+Repository with the sourcecode for the Repeated Measures Variation metric.
